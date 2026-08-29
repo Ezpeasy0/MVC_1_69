@@ -6,7 +6,7 @@
 - Entry point / คำสั่งเปิดโปรแกรม:
 
   1\. เปิด Terminal ในโฟลเดอร์โปรเจกต์  
-  2\. รันคำสั่ง \`npm install\` เพื่อติดตั้ง dependencies  
+  2\. รันคำสั่ง \`npm install\` เพื่อติดตั้ง dependencies  ถ้าเปิดไม่ได้รัน npm install @rolldown/binding-win32-x64-msvc --save-dev 
   3\. รันคำสั่ง \`npm run dev\` เพื่อเริ่มต้นการทำงาน  
   4\. เปิดเว็บเบราว์เซอร์ไปที่ \`http://localhost:5173\`
 
